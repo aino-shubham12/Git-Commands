@@ -1,1 +1,2 @@
 printf("Ainosoft");
+printf("A");
